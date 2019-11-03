@@ -4,7 +4,7 @@
 
 <b>Esquema: </b> <a href="https://www.tinkercad.com/embed/aINy4MAqbMt">https://www.tinkercad.com/embed/aINy4MAqbMt</a>
 <p>
-<h4>Materiais utilizados</h4> </br>
+<h3>Materiais utilizados</h3>
 1 Arduino uno </br>
 8 Resistor (220Ω ou mais) </br>
 1 Protoboard </br>
