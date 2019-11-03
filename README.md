@@ -6,9 +6,9 @@
 
 <h3>Materiais utilizados</h3>
 
-<p>
-1 Arduino uno </br>
-8 Resistor (220Ω ou mais) </br>
-1 Protoboard </br>
-17 Jumpers (cabo) </br>
-</p>
+<ul>
+<li>1 Arduino uno </li>
+<li>8 Resistor (220Ω ou mais) </li>
+<li>1 Protoboard </li>
+<li>17 Jumpers (cabo) </li>
+</ul>
