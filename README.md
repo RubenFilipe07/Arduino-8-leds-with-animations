@@ -8,7 +8,7 @@
 
 <ul>
 <li>1 Arduino uno </li>
-<li>8 Resistor (220Ω ou mais) </li>
+<li>8 Resistores (220Ω ou mais) </li>
 <li>1 Protoboard </li>
 <li>17 Jumpers (cabo) </li>
 </ul>
