@@ -2,13 +2,13 @@
 
 <a href="https://www.tinkercad.com/embed/aINy4MAqbMt"><img src="https://user-images.githubusercontent.com/53026536/68063876-71529200-fcf3-11e9-8043-daf2965e4279.png" width="650px"></a>
 
-<b>Esquema: </b> <a href="https://www.tinkercad.com/embed/aINy4MAqbMt">https://www.tinkercad.com/embed/aINy4MAqbMt</a> </br>
+<b>Electric scheme: </b> <a href="https://www.tinkercad.com/embed/aINy4MAqbMt">https://www.tinkercad.com/embed/aINy4MAqbMt</a> </br>
 
-<h3>Materiais utilizados</h3>
+<h3>Materials used</h3>
 
 <ul>
-<li>1 Arduino uno </li>
-<li>8 Resistores (220Ω ou mais) </li>
-<li>1 Protoboard </li>
-<li>17 Jumpers (cabo) </li>
+  <li>1x Arduino uno (or another)</li>
+  <li>8x resistors (220Ω or more)</li>
+  <li>1x protoboard</li>
+  <li>17x cables</li>
 </ul>
